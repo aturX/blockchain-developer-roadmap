@@ -1,30 +1,29 @@
-# Blockchain Developer Roadmap
+# 区块链开发者路线
 
-> Roadmap para se tornar um Blockchain Developer:
+## 网站
 
-Abaixo, você pode encontrar um gráfico demonstrando os caminhos que você pode seguir e as bibliotecas que você deseja aprender para se tornar um Blockchain Developer.
+[访问网站](http://lisiyi.top)
+ 
+## 路线图
 
-## Dê uma estrela! :star:
 
-Se você gostou ou está usando este projeto para aprender ou iniciar sua solução, dê uma estrela a ele. Obrigado!
+![Roadmap](#)
 
-## Roadmap
 
-![Roadmap](https://github.com/LucasOliveiraS/blockchain-developer-roadmap/blob/master/imagens/roadmap-blockchain.jpg)
 
-## Atenção
+## 资源列表
 
-Se você acha que o roadmap pode ser melhorado, fique à vontade para discutir nas issues. Além disso, continuarei aprimorando, então você pode assistir a este repositório.
 
-## Contribuição
 
-O roadmap é construído usando [Draw.io] (https://www.draw.io/). O arquivo do projeto pode ser encontrado no arquivo `projeto/roadmap-blockchain.xml`. Para modificá-lo, abra o draw.io, clique em ** Abrir diagrama existente ** e escolha o arquivo `xml`.
+ 
+## 制作
+
+路线图绘制： [Draw.io] (https://www.draw.io/)
 
 <h3>Autor</h3>
-<h4>Lucas Oliveira</h4>
+<h4>AturX</h4>
 
  <ul>
-  <li><a href="https://github.com/LucasOliveiraS">Github Profile</a></li>
-  <li><a href="https://www.linkedin.com/in/lucas-oliveira-492723127/">Linkedin</a></li>
-  <li><a href="https://medium.com/@lucasoliveiras">Medium</a></li>
+  <li><a href="https://github.com/aturX">Github Profile</a></li>
+  <li><a href="https://learnblockchain.cn/people/600">Find Me</a></li>
 </ul>
