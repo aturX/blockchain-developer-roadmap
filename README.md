@@ -7,7 +7,7 @@
 ## 路线图
 
 
-![Roadmap](#)
+![Roadmap](https://github.com/aturX/blockchain-developer-roadmap/blob/master/imagens/roadmap-blockchain.png?raw=true)
 
 
 
@@ -18,7 +18,7 @@
  
 ## 制作
 
-路线图绘制： [Draw.io] (https://www.draw.io/)
+路线图绘制： [Draw.io](https://www.draw.io/)
 
 <h3>Autor</h3>
 <h4>AturX</h4>
